@@ -44,9 +44,11 @@ I'm **Camila**, a QA Analyst and Fullstack Developer in the making.
 </p>
 
 #### **Learning Journey**  
-<p align="left">  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </p>
+
 
 
 ---
